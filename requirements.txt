@@ -1,0 +1,7 @@
+Flask==2.1.1
+Flask-PyMongo==2.3.0
+pymongo==4.1.1
+requests==2.27.1
+python-dotenv==0.20.0
+pandas==1.4.2
+llama-cpp==0.1.0
